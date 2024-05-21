@@ -1,4 +1,4 @@
-# README: Understanding Serialization with JSON and Protocol Buffers (Protobuf)
+# Understanding Serialization with JSON and Protocol Buffers (Protobuf)
 
 ## Table of Contents
 
